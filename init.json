@@ -1,0 +1,44 @@
+[
+  {
+    "desiredPosition": "Machine Learning Engineer",
+    "profileSection": "ExperienceDescription",
+    "input": "Employed cutting-edge MLOps practices to expedite deployment and provide transparency into the pipeline.",
+    "suggestion": "Be more specific about the the tools you used and the results of your achievments.",
+    "proposedChange": "Employed cutting-edge MLOps using {Jenkins} for {Continuous Integration and Kubernetes for orchestration}, accelerating deployment timelines by {20%}. Enhanced pipeline transparency, leading to a {15%} reduction in troubleshooting time."
+  },
+  {
+    "desiredPosition": "Full Stack Engineer",
+    "profileSection": "ExperienceDescription",
+    "input": "Proficient in using Python and JavaScript.",
+    "suggestion": "Include details about your experience with frameworks, and how you used these skills on projects.",
+    "proposedChange": "Proficient in Python and JavaScript, with extensive experience using frameworks such as {Django for backend} and {React for frontend}. Successfully implemented these skills in multiple projects, including {an e-commerce platform that boosted client's sales by 30%}."
+  },
+  {
+    "desiredPosition": "Game Developer",
+    "profileSection": "ExperienceDescription",
+    "input": "Developed levels and gameplay mechanics for a variety of games.",
+    "suggestion": "Specify the games you've worked on, your specific role, and the outcome of your contributions.",
+    "proposedChange": "Developed engaging levels and innovative gameplay mechanics for {AAA game titles}, including {Game Title 1} and {Game Title 2}. My contribution in {Game Title 1} resulted in {a 25% increase in player retention rate}."
+  },
+  {
+    "desiredPosition": "Full Stack Engineer",
+    "profileSection": "ExperienceDescription",
+    "input": "Developed and maintained the company's main website.",
+    "suggestion": "Include the technologies used and the impact of your work.",
+    "proposedChange": "Developed and maintained the company's main website using {MEAN Stack (MongoDB, Express.js, Angular, and Node.js)}. Enhanced site performance and security, which led to a {15% increase in user engagement and a 20% reduction in downtime}."
+  },
+  {
+    "desiredPosition": "Game Developer",
+    "profileSection": "ExperienceDescription",
+    "input": "Experienced in using Unity and Unreal Engine.",
+    "suggestion": "Provide examples of how these skills have been applied in previous work.",
+    "proposedChange": "Experienced in using Unity and Unreal Engine. Developed {Game Title 3} using Unity, which has over {100,000 downloads}, and {Game Title 4} using Unreal Engine, which was nominated for {Best Indie Game at a reputable gaming event}."
+  },
+  {
+    "desiredPosition": "Full Stack Engineer",
+    "profileSection": "Education",
+    "input": "Graduated with a degree in Computer Science.",
+    "suggestion": "Include details about relevant coursework or projects completed during your education.",
+    "proposedChange": "Graduated with a degree in Computer Science, with a focus on {Web Development and Database Management}. Completed a capstone project developing a {full-stack web application using JavaScript, Express.js, MongoDB, and React}, which {earned a distinction from the department}."
+  }
+]
